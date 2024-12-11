@@ -105,7 +105,9 @@ function App() {
     );
 
 ```
-==============================================================================================================
+
+---
+
 # Bonus Fail-safe mechanism for currency api
 To **make fetching api fail-safe** we **wrote a function** for safe fetching api and **used it in our hook.**
 
