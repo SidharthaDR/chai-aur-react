@@ -145,11 +145,11 @@ To **make fetching api fail-safe** we **wrote a function** for safe fetching api
 //=======================custom-function-start==============================
 ```
 
-## 2. Implementing in our hook and done. Ps: for use, just copy and paste this code block
+## 2. Implementing in our hook and done. 
 - **Working:**  Add primary-url and secondary-url in purl and surl respectively and then fetched data.
 - You can just copy and paste this **final code** in hook file useCurrencyInfo.js
 ```javascript
-
+// Ps: for use, just copy and paste this code block
     import {useEffect, useState} from "react"
 
 //=======================custom-hook-start====================================
